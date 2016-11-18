@@ -23,11 +23,9 @@ The Channel Identifier for this YouTube channel is `UCdH_8mNJ9vzpHwMNwlz88Zw`, w
 
 ```
 {
-	"mid": "VPWON_1250334",
-	"name": "Zondag met Lubach",
-	"youtube": {
-		"channel": "UCdH_8mNJ9vzpHwMNwlz88Zw"
-	}
+	 "mid": "VPWON_1250334",
+     "name": "Zondag met Lubach",
+     "youtube_channel": "UCdH_8mNJ9vzpHwMNwlz88Zw"
 }
 ```
 
