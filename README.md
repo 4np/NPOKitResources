@@ -12,6 +12,15 @@ A recource consist of a program `mid` (which you can lookup [here](http://apps-a
 
 ### An example of a YouTube _channel_ resource
 
+[Zondag met Lubach](https://www.youtube.com/channel/UCdH_8mNJ9vzpHwMNwlz88Zw) has a URL in the following format:
+
+```
+https://www.youtube.com/channel/UCdH_8mNJ9vzpHwMNwlz88Zw
+```
+
+The Channel Identifier for this YouTube channel is `UCdH_8mNJ9vzpHwMNwlz88Zw`, which you can use to add a new element to the JSON file:
+
+
 ```
 {
 	"mid": "VPWON_1250334",
@@ -22,14 +31,4 @@ A recource consist of a program `mid` (which you can lookup [here](http://apps-a
 }
 ```
 
-### An example of a YouTube _user_ resource
-
-```
-{
-	"mid": "VPWON_1250305",
-	"name": "VPRO Tegenlicht",
-	"youtube": {
-		"user": "VPROTegenlicht"
-	}
-}
-```
+_Note: sometimes a TV program does not seem to have a channel. In order to obtain the channel identifier you need to click the *subscribe* button you will get the channel id._
