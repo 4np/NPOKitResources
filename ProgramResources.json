@@ -3,17 +3,32 @@
      "mid": "VARA_101377717",
      "name": "De Wereld Draait Door",
      "youtube_channel": "UC6gpEAIMMzVQZU4G86G7wVQ"
-   }, 
+   },
+   {
+      "mid": "VPWON_1256937",
+      "name": "Het Klokhuis",
+      "youtube_channel": "UC1rz0CNVZBUAlnk1xrlrjAw"
+   },
    {
      "mid": "VPWON_1250080",
      "name": "Koken met Van Boven",
      "youtube_channel": "UCGC83o-aeyF2Phnlb_frw3Q"
    },
    {
+     "mid": "POMS_S_KN_4665276",
+     "name": "Nijntje de film",
+     "youtube_channel": ""
+   },
+   {
      "mid": "VPWON_1250305",
      "name": "VPRO Tegenlicht",
      "youtube_channel": "UCOZCa3XjOpDfWuQFDy5fmQA"
    }, 
+   {
+     "mid": "VARA_101377820",
+     "name": "Vroege Vogels TV",
+     "youtube_channel": "UCX8tlPIkOkeeRmtTweswP6w"
+   },
    {
      "mid": "AT_2051232",
      "name": "Wie is de Mol?",
@@ -23,10 +38,5 @@
      "mid": "VPWON_1250334",
      "name": "Zondag met Lubach",
      "youtube_channel": "UCdH_8mNJ9vzpHwMNwlz88Zw"
-   },
-   {
-      "mid": "VPWON_1256937",
-      "name": "Het Klokhuis",
-      "youtube_channel": "UC1rz0CNVZBUAlnk1xrlrjAw"
    }
 ]
