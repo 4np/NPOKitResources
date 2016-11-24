@@ -10,7 +10,7 @@ In order to contribute new resources, [fork](https://github.com/4np/NPOKitResour
 
 A recource consist of a program `mid` (which you can lookup [here](http://apps-api.uitzendinggemist.nl/series.json)), its name and a description of that resource. Currently only youtube channels are users are supported.
 
-### An example of a YouTube channel resource
+### An example of a YouTube *channel* resource
 
 [Zondag met Lubach](https://www.youtube.com/channel/UCdH_8mNJ9vzpHwMNwlz88Zw) has a URL in the following format:
 
@@ -29,7 +29,7 @@ The Channel Identifier for this YouTube channel is `UCdH_8mNJ9vzpHwMNwlz88Zw`, w
 }
 ```
 
-### Finding the right channel identifier
+#### Finding the right channel identifier
 
 The channel identifier looks like a random string. Whenever you see something readable it generally is *_not_* the channel identifier.
 
@@ -41,10 +41,20 @@ Sometimes the channel identifier is conveniently in the URL, but more often it i
 
 In this case the channel identifier is `UC6gpEAIMMzVQZU4G86G7wVQ` (De Wereld Draait Door).
 
-### Testing the channel identifier
+#### Testing the channel identifier
 
 When you have found the channel identifier, test if it works by opening the following url and replacing `channel_identifier` with the found identifier:
 
 ```
 https://www.youtube.com/channel/channel_identifier
+```
+
+### An example of a YouTube *playlist* resource
+
+```
+   {
+     "mid": "VPWON_1260826",
+     "name": "Freek in het wild",
+     "youtube_playlist": "PLe5xp19huiuEt6_2KCl7KTULnPTWL8uGp"
+   }
 ```
