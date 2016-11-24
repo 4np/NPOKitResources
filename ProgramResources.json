@@ -1,5 +1,10 @@
 [
    {
+     "mid": "AT_2053171",
+     "name": "Ali B op Volle Toeren",
+     "youtube_playlist": "PLDQYfE7BLAcrlOkHdNMYWbiPf5hLTvzBn"
+   },
+   {
      "mid": "AT_2048906",
      "name": "Bumba",
      "youtube_channel": "UCBC4RQhCJWhM91DD9tY8Kcw"
@@ -35,9 +40,94 @@
      "youtube_channel": "UC6gpEAIMMzVQZU4G86G7wVQ"
    },
    {
+     "mid": "AT_2046031",
+     "name": "EenVandaag",
+     "youtube_channel": "UCjxk-pBIdYXjBQGie4uJGoA"
+   },
+   {
+     "mid": "VPWON_1260826",
+     "name": "Freek in het wild",
+     "youtube_playlist": "PLe5xp19huiuEt6_2KCl7KTULnPTWL8uGp"
+   },
+   {
+     "mid": "FryslanDOK",
+     "name": "Fryslân DOK",
+     "youtube_playlist": "PLTV2DMVEXCnWX70WS1jx7XthDABm-7LTD"
+   },
+   {
+     "mid": "",
+     "name": "Giels Talentenjacht",
+     "youtube_channel": "UCmmyWnkgYo64EyelFkS7g7Q"
+   },
+   {
       "mid": "VPWON_1256937",
       "name": "Het Klokhuis",
       "youtube_channel": "UC1rz0CNVZBUAlnk1xrlrjAw"
+   },
+   {
+     "mid": "AT_2045553",
+     "name": "Hoe heurt het eigenlijk?",
+     "youtube_playlist": "PL323uDrZoQAfM9BdCzPBBWfFszV9koLis"
+   },
+   {
+     "mid": "AT_2056755",
+     "name": "Hunted",
+     "youtube_playlist": "PLDQYfE7BLAcp5BBA2oyPtkPBmRE7iAoSd"
+   },
+   {
+     "mid": "AT_2032968",
+     "name": "Ik Vertrek",
+     "youtube_channel": "UCRs4Gp73ygeTgJWPsZEdJ9w"
+   },
+   {
+     "mid": "KN_1676723",
+     "name": "Jacobine op zondag",
+     "youtube_channel": "UCoimPCU86vxs7_WTsj6H-6A"
+   },
+   {
+     "mid": "AT_2045620",
+     "name": "Kaal of kammen",
+     "youtube_channel": "UC9lVg77XRivpYSgXOZ2glkg"
+   },
+   {
+     "mid": "VARA_101377663",
+     "name": "Kassa",
+     "youtube_channel": "UC8Q2dYFPEyTz_a6UyLVjLFQ"
+   },
+   {
+     "mid": "VPWON_1251923",
+     "name": "De Kennis van Nu",
+     "youtube_channel": "UCqc2EjpKBRVWxy0Eh3qw03g"
+   },
+   {
+     "mid": "KN_1678993",
+     "name": "Keuringsdienst van Waarde",
+     "youtube_channel": "UCFl4pCHMf6bqIguCSr5-RIw"
+   },
+   {
+     "mid": "AT_2047897",
+     "name": "Kicke",
+     "youtube_channel": "UCazfcdskIPkIdcon0NmsymA"
+   },
+   {
+     "mid": "VARA_101378705",
+     "name": "Kinderen voor Kinderen",
+     "youtube_channel": "UCzHvQ71dc49Hhf9POhCANIQ"
+   },
+   {
+     "mid": "POW_03067972",
+     "name": "Kiwi & Strit",
+     "youtube_channel": "UCyjehcEkAXMn-0kfKoNNSPw"
+   },
+   {
+     "mid": "KN_1678921",
+     "name": "Klaas kan Alles",
+     "youtube_channel": "UCCaOWydWlVe6f1HJjtXc6xw"
+   },
+   {
+     "mid": "VPWON_1256937",
+     "name": "Het Klokhuis",
+     "youtube_channel": "UCzt4qe2k-S8OduRaeWK6Mpw"
    },
    {
      "mid": "VPWON_1250080",
@@ -45,9 +135,54 @@
      "youtube_channel": "UCGC83o-aeyF2Phnlb_frw3Q"
    },
    {
+     "mid": "AT_2050620",
+     "name": "Kunstuur",
+     "youtube_channel": "UCYapsX8cYhAswNT5qYG880Q"
+   },
+   {
+     "mid": "VARA_101377693",
+     "name": "De Kwis",
+     "youtube_channel": "UCX0jEflGtoRIe1Gi5QHFFrQ"
+   },
+   {
+     "mid": "POMS_S_VPRO_2468040",
+     "name": "Louis Theroux",
+     "youtube_channel": "UCbU5wfQKLe_f1hMLON85O8g"
+   },
+   {
+     "mid": "AT_2032109",
+     "name": "De Magische Winkel",
+     "youtube_channel": "UC_t9hoBzCOagNieSttiym1Q"
+   },
+   {
+     "mid": "KN_1683986",
+     "name": "Marlijn: de dolende dertiger",
+     "youtube_channel": "UCQDfpTP0P7QLfZAiejJLKIQ"
+   },
+   {
+     "mid": "POW_00890546",
+     "name": "Maya de Bij",
+     "youtube_channel": "UCPMnpZh2nBck7wSCZkkF3xA"
+   },
+   {
+     "mid": "AT_2037364",
+     "name": "Mindf*ck",
+     "youtube_channel": "UC77TRTrJN-ipkT5M5E9DfYQ"
+   },
+   {
+     "mid": "VPWON_1246712",
+     "name": "Nieuwsuur",
+     "youtube_channel": "UCExcZNwh_3Mwm4fF4VSiu2w"
+   },
+   {
      "mid": "POMS_S_KN_4665276",
      "name": "Nijntje de film",
      "youtube_channel": "UCKvUKaPt2KzudgmnvGewQcQ"
+   },
+   {
+     "mid": "VPWON_1261459",
+     "name": "Toren C",
+     "youtube_channel": "UC_ZeZOCoeoNedTEOO6Hwq4g"
    },
    {
      "mid": "VPWON_1250305",
