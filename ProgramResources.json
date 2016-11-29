@@ -10,6 +10,11 @@
      "youtube_channel": "UCBC4RQhCJWhM91DD9tY8Kcw"
    },
    {
+     "mid": "AT_2069399",
+     "name": "De Braboneger verkaast?!",
+     "youtube_channel": "UCz-4XpODXksYHqmyRafogTg"
+   },
+   {
      "mid": "AT_2035122",
      "name": "Brugklas",
      "youtube_channel": "UCzTxhXx41-CugLrsRLPK4Bg"
@@ -28,16 +33,6 @@
      "mid": "VPWON_1257901",
      "name": "Checkpoint",
      "youtube_channel": "UCYHWidEndph-MbuXDXqGLsg"
-   },
-   {
-     "mid": "AT_2069399",
-     "name": "De Braboneger verkaast?!",
-     "youtube_channel": "UCz-4XpODXksYHqmyRafogTg"
-   },
-   {
-     "mid": "VARA_101377717",
-     "name": "De Wereld Draait Door",
-     "youtube_channel": "UC6gpEAIMMzVQZU4G86G7wVQ"
    },
    {
      "mid": "AT_2046031",
@@ -145,6 +140,11 @@
      "youtube_channel": "UCX0jEflGtoRIe1Gi5QHFFrQ"
    },
    {
+     "mid": "KN_1683266",
+     "name": "Lost in the Game",
+     "youtube_playlist": "PLJFgLHH_oCyN5omvo8N2lMqEsPpgvM-6l"
+   },
+   {
      "mid": "POMS_S_VPRO_2468040",
      "name": "Louis Theroux",
      "youtube_channel": "UCbU5wfQKLe_f1hMLON85O8g"
@@ -225,6 +225,11 @@
      "youtube_channel": "UCKvUKaPt2KzudgmnvGewQcQ"
    },
    {
+     "mid": "OmropFryslanJeugd",
+     "name": "Omrop Fryslan",
+     "youtube_playlist": "PLTV2DMVEXCnW1Rez91lixhGtcgEBBpL1b"
+   },
+   {
      "mid": "VPWON_1261609",
      "name": "Onzichtbaar Nederland",
      "youtube_playlist": "PLBvGnghCtxJFJv1oNowY27oFp0pK4OVoa"
@@ -232,7 +237,7 @@
    {
      "mid": "AT_2046485",
      "name": "Opgelicht?!",
-     "youtube_channel": "UCA7fZoi0KlUvtWq1ZNwLrig"
+     "youtube_playlist": "PL6vazB_yUFNYTMcwHrjSzFGqympljtrfF"
    },
    {
      "mid": "BNN_101381245",
@@ -305,14 +310,134 @@
      "youtube_channel": "UC7bR5kP170hu9-u19tGcZGQ"
    },
    {
+     "mid": "POW_02934232",
+     "name": "Teletubbies",
+     "youtube_channel": "UCWPprpSRxT3Oz00d89v57XA"
+   },
+   {
+     "mid": "POW_00923661",
+     "name": "The Graham Norton Show",
+     "youtube_channel": "UC4PziMH5MvvsmqM0VCZTy-g"
+   },
+   {
+     "mid": "POMS_S_VPRO_787855",
+     "name": "Timmy Tijd",
+     "youtube_channel": "UCICOeXcxqtLwgLqDMDG8Ezg"
+   },
+   {
+     "mid": "POW_00872680",
+     "name": "Tip de muis",
+     "youtube_channel": "UCXxOiHo5ySS1SC1QAfgaSzw"
+   },
+   {
+     "mid": "VPWON_1262919",
+     "name": "Top 2000 2016",
+     "youtube_playlist": "PLHInCB7NYeN9KDnTUNxb5_p3WS1jrseh3"
+   },
+   {
+     "mid": "VPWON_1266568",
+     "name": "Topdoks",
+     "youtube_channel": "UC70MVrETC8RpKor3cxSeNgQ"
+   },
+   {
+     "mid": "VPWON_1261459",
+     "name": "Toren C",
+     "youtube_channel": "UC_ZeZOCoeoNedTEOO6Hwq4g"
+   },
+   {
+     "mid": "POMS_S_KRO_2624770",
+     "name": "Trippel Trappel",
+     "youtube_playlist": "PLoDqfjbNlUjN2xcyREpBiyKrKRyLzf_bN"
+   },
+   {
+     "mid": "POW_03382279",
+     "name": "Twinipop",
+     "youtube_channel": "UCqxCefKoqlEQacymkDspX6Q"
+   },
+   {
+     "mid": "VPWON_1247283",
+     "name": "Verborgen Verleden",
+     "youtube_playlist": "PL8G5DBsiAGws4_aGinGntiNEvBs3x6LXE"
+   },
+   {
+     "mid": "VPWON_1258661",
+     "name": "Verhalen uit de Schatkist",
+     "youtube_playlist": "PLF5U_9A5f1W7gbkvs-Rvz1AOlfCBYTeZ2"
+   },
+   {
+     "mid": "VPWON_1257893",
+     "name": "Het Vermoeden",
+     "youtube_playlist": "PLF2D50E57C5B33D53"
+   },
+   {
+     "mid": "POMS_S_NCRV_734257",
+     "name": "De Verwondering",
+     "youtube_channel": "UCucAECHnfcqfGppnhyIN6hg"
+   },
+   {
+     "mid": "POW_03344601",
+     "name": "Vier Seizoenen Aan De Amstel",
+     "youtube_channel": "UC2UIXt4VQnhQ-VZM4P1bUMQ"
+   },
+   {
+     "mid": "AT_2047596",
+     "name": "Vive La Frans",
+     "youtube_playlist": "PLDQYfE7BLAcrgQpLa0u4_8wScCkJsynPr"
+   },
+   {
+     "mid": "KN_1683527",
+     "name": "Vlucht HS13",
+     "youtube_playlist": "PLVLq8iI4Uorina3PIPCf33OheSRP71zpR"
+   },
+   {
+     "mid": "AT_2041393",
+     "name": "Voetbalmeisjes",
+     "youtube_channel": "UCRfTnX7ZkO3Yfu8wX-ncMeA"
+   },
+   {
+     "mid": "AT_2053193",
+     "name": "Volle Zalen",
+     "youtube_playlist": "PLDQYfE7BLAcr5X9Hy4WQiR37BaN-TftfD"
+   },
+   {
      "mid": "VPWON_1250305",
      "name": "VPRO Tegenlicht",
      "youtube_channel": "UCOZCa3XjOpDfWuQFDy5fmQA"
    }, 
    {
+     "mid": "VPWON_1250145",
+     "name": "VPRO Vrije Geluiden",
+     "youtube_channel": "UC-KX3q7zIz7s2rjooBfl6Nw"
+   },
+   {
      "mid": "VARA_101377820",
      "name": "Vroege Vogels TV",
      "youtube_channel": "UCX8tlPIkOkeeRmtTweswP6w"
+   },
+   {
+     "mid": "KN_1676721",
+     "name": "De Wandeling",
+     "youtube_playlist": "PLb6nMZA-rC9YskT0-TDfHjIVqHDW6Ebal"
+   },
+   {
+     "mid": "POW_03285666",
+     "name": "De Week van PowNed",
+     "youtube_playlist": "PL8pl20xJLh9dSPXcmb6mlP4xQ1fqDchSq"
+   },
+   {
+     "mid": "VARA_101377717",
+     "name": "De Wereld Draait Door",
+     "youtube_channel": "UC6gpEAIMMzVQZU4G86G7wVQ"
+   },
+   {
+     "mid": "POW_00890601",
+     "name": "De Wereld van K3",
+     "youtube_playlist": "PLw_5zTBMF4hy3DgTeSMdUMuEUuTJg7LKS"
+   },
+   {
+     "mid": "POW_00887220",
+     "name": "Wickie de Viking",
+     "youtube_channel": "UCKwhuBnr4mJDZWegS_MBc8g"
    },
    {
      "mid": "AT_2051232",
@@ -320,8 +445,73 @@
      "youtube_channel": "UCel8cggPg2ZILlGBmZ3NRvQ"
    },
    {
+     "mid": "VPWON_1257900",
+     "name": "Wilde Ganzen",
+     "youtube_channel": "UC-xESgUpTIoumpywwx6lhoQ"
+   },
+   {
+     "mid": "KN_1677489",
+     "name": "Willem Wever",
+     "youtube_channel": "UCEhLfCA-kiHHSg8pP43zc1w"
+   },
+   {
+     "mid": "POW_00838081",
+     "name": "Witse",
+     "youtube_channel": "UCtqDBaB3th7okv8ss5zPZzQ"
+   },
+   {
+     "mid": "POMS_S_KRO_059859",
+     "name": "Woezel & Pip",
+     "youtube_channel": "UCmNBltzc6jnZNEXIeH2Xadg"
+   },
+   {
+     "mid": "POMS_S_VPRO_084299",
+     "name": "ZAPP Echt Gebeurd",
+     "youtube_channel": "UCWUCpGQdBL4YJyV0cF_dtLA"
+   },
+   {
+     "mid": "AT_2045908",
+     "name": "ZAPP Kids Top 20",
+     "youtube_channel": "UCMkPF6v11fUHihvDOvn8_OQ"
+   },
+   {
+     "mid": "VPWON_1261559",
+     "name": "ZAPP Your Planet 2016",
+     "youtube_playlist": "PLhaZsxpAj-aatT4yrQ8y895anl1F-g2aO"
+   },
+   {
+     "mid": "AT_2066755",
+     "name": "Zappelin Go",
+     "youtube_channel": "UCM_kV-afYb7zFetI6Mjy6yg"
+   },
+   {
+     "mid": "KN_1677095",
+     "name": "Zapplive",
+     "youtube_channel": "UCDJX4CYx61PKFiOmQArIdsQ"
+   },
+   {
+     "mid": "KN_1684146",
+     "name": "Zappmissie: Lost In The Game",
+     "youtube_playlist": "PLJFgLHH_oCyN5omvo8N2lMqEsPpgvM-6l"
+   },
+   {
+     "mid": "AT_2037144",
+     "name": "Zappsport",
+     "youtube_channel": "UCu2Y9AeSi5_--wFsHvWj3Fw"
+   },
+   {
+     "mid": "VARA_101377863",
+     "name": "ZEMBLA",
+     "youtube_playlist": "PLePWX9DDwXFgA-MVPV7LgPUBioivPkwQF"
+   },
+   {
      "mid": "VPWON_1250334",
      "name": "Zondag met Lubach",
      "youtube_channel": "UCdH_8mNJ9vzpHwMNwlz88Zw"
+   },
+   {
+     "mid": "AT_2061834",
+     "name": "Zorg.nu",
+     "youtube_channel": "UCdWq6NIL_jKyLEBNBT_w8vw"
    }
 ]
